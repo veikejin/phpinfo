@@ -10,7 +10,7 @@ Outputs information about PHP's configuration
 ## 安装
 
 ```bash
-composer require laravel-admin-ext/phpinfo
+composer require veikejin/phpinfo
 ```
 
 如果要在左侧菜单添加一个链接入口，用下面的命令导入
