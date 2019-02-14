@@ -1,14 +1,13 @@
 {
-    "name": "testpro/phpinfo",
+    "name": "veikejin/phpinfo",
     "description": "Show php information in laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "phpinfo"],
-    "homepage": "https://github.com/laravel-admin-ext/phpinfo",
     "license": "MIT",
     "authors": [
         {
-            "name": "song",
-            "email": "zosong@126.com"
+            "name": "ll",
+            "email": "ll@126.com"
         }
     ],
     "require": {
